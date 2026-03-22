@@ -1,0 +1,16 @@
+[
+    {
+        "course": "IT",
+        "desc": "COMPLETE",
+        "deadline": "2",
+        "priority": 5,
+        "done": false
+    },
+    {
+        "course": "ART",
+        "desc": "WOW",
+        "deadline": "2024-12-11",
+        "priority": 1,
+        "done": false
+    }
+]
